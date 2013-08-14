@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "platformPrint.py",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"line_ending": "Unix",
+				"name": "#!/usr/bin/python"
+			}
+		},
+		{
+			"file": "test.txt",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix",
+				"name": "test"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"snippet",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"angl",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"angul",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angu",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"snipper",
+				"Snippet: HTML - Script"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 453.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/grant/.config/sublime-text-2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/js/controllers/dashboard/NewEvent.js",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/css/master.less",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/js/controllers/event/Checkin.js",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/js/controllers.js",
+		"/home/grant/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/grant/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/grant/.config/sublime-text-2/Packages/User/SFTP.sublime-settings",
+		"/home/grant/.config/sublime-text-2/Packages/SFTP/SFTP.sublime-settings",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/js/app.js",
+		"/home/grant/.config/sublime-text-2/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/home/grant/.config/sublime-text-2/Packages/SFTP/Default (Linux).sublime-keymap",
+		"/home/grant/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/scripts/signin.js",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/partials/dashboard/event/registration.html",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/partials/widget/events.html",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/vendor/jquery/ui/demos/draggable/events.html",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/partials/dashboard/event/modules/event_heading.html",
+		"/home/grant/workspace/attendware/attendware-api-prod/sftp-config.json",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/css/edits.css",
+		"/home/grant/workspace/attendware/attendware-dashboard/app/css/admin.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"platform",
+			"event.date",
+			"console.log",
+			"console.log($scope.registrations);",
+			"console.lo",
+			"console.o",
+			"console.log",
+			"scrollTop",
+			"required",
+			"saveEvent",
+			"new Event",
+			"Create a New",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "platformPrint.py",
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "#!/usr/bin/python",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.txt",
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".js",
+				"app/scripts/signin.js"
+			],
+			[
+				"newevent",
+				"app/js/controllers/dashboard/NewEvent.js"
+			],
+			[
+				"events",
+				"app/partials/widget/events.html"
+			],
+			[
+				"event",
+				"app/vendor/jquery/ui/demos/draggable/events.html"
+			],
+			[
+				"report.php",
+				"application/libraries/domain/Report.php"
+			],
+			[
+				"reports.php",
+				"application/controllers/reports.php"
+			],
+			[
+				"registration",
+				"application/controllers/registrations.php"
+			],
+			[
+				"regist",
+				"application/libraries/domain/Registration.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 95.0,
+	"status_bar_visible": true
+}
