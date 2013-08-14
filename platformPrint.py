@@ -52,8 +52,8 @@ def print_linux(font_family, img_posx, img_posy, img_path, img_height, img_width
 
 	new_im.save('nametag_print.png')
 
-	# call lpr to print
-	os.system(r'lp -d QL-700 ./nametag_print.png')
+	# call lp to print
+	# os.system(r'lp -d QL-700 ./nametag_print.png')
 
 	return
 
@@ -128,6 +128,8 @@ def main():
 			print "Textblock " + text_block.text + "'s posy: ", text_block.posy
 			print "Textblock " + text_block.text + "'s font style: " + text_block.font_style
 			print "Textblock " + text_block.text + "'s font size: ", text_block.font_size
+
+	print(system_platform)
 
 	if(system_platform) == "Mac":
 		print_linux(font_family, img_posx, img_posy, img_path, img_height, img_width, text_blocks)
